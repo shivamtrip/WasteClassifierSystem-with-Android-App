@@ -4,4 +4,4 @@ A small scale representation of automating the waste segregation process by usin
 
 
 
-## 1. An image is shown to the computer
+### 1. An image is shown to the computer
