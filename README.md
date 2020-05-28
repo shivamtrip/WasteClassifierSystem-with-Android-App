@@ -1,0 +1,2 @@
+# WasteClassifierSystem-with-Android-App
+A small scale representation of automating the waste segregation process by using Machine Learning, Computer Vision and Android 
