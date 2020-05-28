@@ -10,7 +10,7 @@ A small scale representation of automating the waste segregation process by usin
 <br>
 
 ### 2. CNN Model predicts the result
-<img src = "images/predicted.png" width = "70%">
+<img src = "images/predict.png" width = "70%">
 
 
 
