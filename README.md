@@ -19,7 +19,7 @@ A small scale representation of automating the waste segregation process by usin
 <br>
 <img src = "images/ss2.png" height = 70%>
 
-### 3. In a real waste plant setting, a mechanism to segregate the waste based on the prediction of the model can be implemented.
+### In a real waste plant setting, a mechanism to segregate the waste based on the prediction of the model can be implemented.
 
 
 
