@@ -12,5 +12,12 @@ A small scale representation of automating the waste segregation process by usin
 ### 2. CNN Model predicts the result
 <img src = "images/predict.png" width = "70%">
 
+<br>
+
+### 3. Instantly updates on App through Database
+<img src = "images/ss1.png" width = "70%">
+
+
+
 
 
