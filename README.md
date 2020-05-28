@@ -4,17 +4,17 @@ A small scale representation of automating the waste segregation process by usin
 
 
 
-### 1. The camera detects an image
+## 1. Camera Detects an Image
 <img src = "images/show.png" width = "70%">
 
 <br>
 
-### 2. CNN Model predicts the result
+## 2. CNN Model Predicts the Result
 <img src = "images/predict.png" width = "70%">
 
 <br>
 
-### 3. Instantly updates on App through Database
+## 3. Instantly Updates on App through Database
 <img src = "images/ss1.png" height = 70%>
 
 
