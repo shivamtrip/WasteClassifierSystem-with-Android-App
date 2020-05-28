@@ -15,8 +15,9 @@ A small scale representation of automating the waste segregation process by usin
 <br>
 
 ## 3. Instantly Updates on App through Database
-<img src = "images/ss1.png" height = 70%> <img src = "images/ss2.png" height = 70%> 
+<img src = "images/ss1.png" height = 70%>  
 <br>
+<img src = "images/ss2.png" height = 70%>
 
 
 
