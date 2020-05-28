@@ -4,12 +4,12 @@ A small scale representation of automating the waste segregation process by usin
 
 
 
-## 1. Camera Detects an Image
+## 1. Camera Detects an Object
 <img src = "images/show.png" width = "70%">
 
 <br>
 
-## 2. CNN Model Predicts the Result
+## 2. Object is Classified as Organic or Recyclable Waste
 <img src = "images/predict.png" width = "70%">
 
 <br>
