@@ -5,5 +5,5 @@ A small scale representation of automating the waste segregation process by usin
 
 
 ### 1. The camera detects an image
-![](https://github.com/shivamtrip/WasteClassifierSystem-with-Android-App/tree/master/images/show.png)
+![](/images/show.png)
 
