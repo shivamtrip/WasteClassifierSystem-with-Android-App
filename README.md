@@ -5,7 +5,6 @@ A small scale representation of automating the waste segregation process by usin
 
 
 ### 1. The camera detects an image
-![](/images/show.png)
-![](./images/show.png = 250*)
+![](/images/show.png | width = 100)
 
 
