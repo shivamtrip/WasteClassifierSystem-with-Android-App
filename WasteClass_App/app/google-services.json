@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315027478236",
+    "firebase_url": "https://wasteclassifier-2c0bc.firebaseio.com",
+    "project_id": "wasteclassifier-2c0bc",
+    "storage_bucket": "wasteclassifier-2c0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315027478236:android:18907c6a6f944101968619",
+        "android_client_info": {
+          "package_name": "com.example.driveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315027478236-s3kikv419d3t52et8f5ptn8bad496k1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driveapp",
+            "certificate_hash": "cfad9f4b8ac546dbafef48823d0a58e6fb2dba03"
+          }
+        },
+        {
+          "client_id": "315027478236-6rjmfq89b8ld1ads3evcmjgqfscevmu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PQBrclud3BacLyErz_KksgsWXTcwyWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315027478236-6rjmfq89b8ld1ads3evcmjgqfscevmu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
