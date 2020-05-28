@@ -7,6 +7,11 @@ A small scale representation of automating the waste segregation process by usin
 ### 1. The camera detects an image
 <img src = "images/show.png" width = "70%">
 
+
+
+
+
+
 ### 2. CNN Model predicts the result
 <img src = "images/predicted.png" width = "70%">
 
