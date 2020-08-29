@@ -17,7 +17,7 @@ A small scale representation of automating the waste segregation process by usin
 ## 3. Instantly Updates on App through Database
 <kbd><img src = "images/ss1.png" height = 70%></kbd>  
 <br>
-<img src = "images/ss2.png" height = 70%>
+<kbd><img src = "images/ss2.png" height = 70%></kbd>
 
 ## In a real waste plant setting, a mechanism to segregate the waste based on the prediction of the model can be implemented.
 
