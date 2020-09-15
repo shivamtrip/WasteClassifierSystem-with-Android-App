@@ -25,7 +25,7 @@ A small scale representation of automating the waste segregation process by usin
 
 ## Phone's camera can be used too.. 
 
-<kbd><img src = "images/image1.jpeg" height = 70%></kbd> 
+<kbd><img src = "images/image1.jpeg" height = 35%></kbd> 
 
 
 
