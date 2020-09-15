@@ -21,11 +21,11 @@ firebase_admin.initialize_app(cred, {
 db = firestore.client()
 
 config = {
-    "apiKey": "AIzaSyC0PQBrclud3BacLyErz_KksgsWXTcwyWs",
-    "authDomain": "webapp-b6acb.firebaseapp.com",
-    "databaseURL": "https://wasteclassifier-2c0bc.firebaseio.com",
-    "projectId": "wasteclassifier-2c0bc",
-    "storageBucket": "wasteclassifier-2c0bc.appspot.com",
+    "apiKey": "",                       //add your own details
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
 }
 
 firebase = pyrebase.initialize_app(config)
@@ -39,8 +39,6 @@ while True:
     img_path = 'capturing-images-from-webcam-using-opencv-python-master/Capture_Image'
 
     num = len(os.listdir(img_path)) + 1
-
-    # img = cv2.imread('https://storage.googleapis.com/wasteclassifier-2c0bc.appspot.com/Photos/image15', 1)
 
     ## Set up the image URL and filename
     image_url = "https://storage.googleapis.com/wasteclassifier-2c0bc.appspot.com/Photos/" + "photo" + "23" + ".jpg"
