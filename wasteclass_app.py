@@ -85,16 +85,13 @@ if int(np.round(model.predict(z)[0][0])) == 1:
 
     url = blob.public_url
 
-    config = {
-        "apiKey": "AIzaSyC0PQBrclud3BacLyErz_KksgsWXTcwyWs",
-        "authDomain": "webapp-b6acb.firebaseapp.com",
-        "databaseURL": "https://wasteclassifier-2c0bc.firebaseio.com",
-        "projectId": "wasteclassifier-2c0bc",
-        "storageBucket": "wasteclassifier-2c0bc.appspot.com",
-        # "messagingSenderId": "481011804253",
-        # "appId": "1:481011804253:web:99fdb4cea4a16773e8c5b4",
-        # "measurementId": "G-8R0ZQCPFNT"
-    }
+config = {
+    "apiKey": "",                       //add your own details
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+}
 
     firebase = pyrebase.initialize_app(config)
 
@@ -132,16 +129,13 @@ else:
 
         url = blob.public_url
 
-        config = {
-            "apiKey": "AIzaSyC0PQBrclud3BacLyErz_KksgsWXTcwyWs",
-            "authDomain": "webapp-b6acb.firebaseapp.com",
-            "databaseURL": "https://wasteclassifier-2c0bc.firebaseio.com",
-            "projectId": "wasteclassifier-2c0bc",
-            "storageBucket": "wasteclassifier-2c0bc.appspot.com",
-            # "messagingSenderId": "481011804253",
-            # "appId": "1:481011804253:web:99fdb4cea4a16773e8c5b4",
-            # "measurementId": "G-8R0ZQCPFNT"
-        }
+config = {
+    "apiKey": "",                       //add your own details
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+}
 
         firebase = pyrebase.initialize_app(config)
 
